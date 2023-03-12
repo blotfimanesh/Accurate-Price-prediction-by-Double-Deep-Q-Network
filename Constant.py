@@ -1,0 +1,6 @@
+BUY=1
+SELL=2
+HOLD=3
+HOLD_BUY=4
+HOLD_Sell=5
+nothing=0
